@@ -17,9 +17,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/pranjalm37/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/pranjalm37/DSA/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pranjalm37/DSA/tree/master/0217-contains-duplicate) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/pranjalm37/DSA/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/pranjalm37/DSA/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/pranjalm37/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
