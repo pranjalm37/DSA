@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pranjalm37/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/pranjalm37/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pranjalm37/DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pranjalm37/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pranjalm37/DSA/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pranjalm37/DSA/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/pranjalm37/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
